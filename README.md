@@ -1,4 +1,4 @@
-# Checkout Field Validator
+# Optional Email for WooCommerce
 
 ## Instalacja
 
