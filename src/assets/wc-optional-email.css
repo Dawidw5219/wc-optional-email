@@ -1,0 +1,3 @@
+.woocommerce form.woocommerce-checkout .form-row label[for="billing_email"] abbr {
+  display: none !important;
+}
